@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  
+}
+
+.heading_style{
+  color: black;
+  padding: 60px;
+  text-align: center;
+  background: rgb(228, 228, 23);
+  font-size: 30px;
+}
+
+.slot_inner{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 2px;
+  font-size: 13px;
+  font-weight: 300;
+  
+}
